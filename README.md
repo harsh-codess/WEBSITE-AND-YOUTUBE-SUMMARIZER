@@ -2,9 +2,14 @@
 
 Transform YouTube videos and web articles into concise summaries using advanced AI models. This project leverages Groq's lightning-fast inference and LangChain's powerful document processing capabilities.
 
+## 🌟 Live Demo Available!
+
+**🚀 [Try the app now!](https://website-and-youtube-harshcodess.streamlit.app/)** - Experience the AI Content Summarizer in action!
+
 ![AI Content Summarizer](https://img.shields.io/badge/AI-Content%20Summarizer-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge&logo=streamlit)
 
 ## ✨ Features
 
@@ -19,7 +24,7 @@ Transform YouTube videos and web articles into concise summaries using advanced 
 
 ## 🚀 Live Demo
 
-Experience the app live: [Add your deployment URL here]
+🎯 **[Experience the app live here!](https://website-and-youtube-harshcodess.streamlit.app/)**
 
 ## 📁 Project Structure
 
